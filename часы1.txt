@@ -1,0 +1,6 @@
+<html>
+<body>
+Хочешь узнать точное время? Жми сюда!!!
+<A HREF="часы2.html"><img src="https://www.shutterstock.com/image-photo/orange-watch-wall-clock-11-260nw-2630531821.jpg"></A>
+</body>
+</html>
